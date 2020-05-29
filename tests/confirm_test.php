@@ -44,7 +44,7 @@ defined('MOODLE_INTERNAL') || die();
  * @copyright  2020 David Ordonez <davidherzlos@gmail.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-class confirm_testcase extends advanced_testcase {
+class confirm_testcase extends \advanced_testcase {
 
     // Write the tests here as public funcions.
 
