@@ -30,7 +30,7 @@ class debugger {
 
     public static function log($message, $value, $backtrace = false) {
         global $CFG;
-        $file = fopen($CFG->dirroot.'/mod/collaborate/debugging.log', 'a');
+        $file = fopen($CFG->dirroot.'/local/customization/debugging.log', 'a');
 
         if ($backtrace) {
             $exception = new \Exception();
