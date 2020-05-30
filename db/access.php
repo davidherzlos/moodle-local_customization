@@ -46,7 +46,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $capabilities = [
-    'mod/collaborate:confirm' => [
+    'local/customization:confirm' => [
         'captype' => 'write',
         'contextlevel' => CONTEXT_SYSTEM,
         'archetypes' => [

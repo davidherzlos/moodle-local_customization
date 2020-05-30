@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Renderplatable to prepare output of mod_collaborate.
+ * Renderplatable to prepare output of local_customization.
  *
  * @package     local_customization
  * @copyright   2020 David Ordonez <davidherzlos@gmail.com>

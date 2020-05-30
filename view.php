@@ -15,37 +15,9 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * File containing tests for confirm.
+ * Index page
  *
  * @package     local_customization
- * @category    test
  * @copyright   2020 David Ordonez <davidherzlos@gmail.com>
  * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-
-namespace local_customization\tests;
-
-defined('MOODLE_INTERNAL') || die();
-
-// For installation and usage of PHPUnit within Moodle please read:
-// https://docs.moodle.org/dev/PHPUnit
-//
-// Documentation for writing PHPUnit tests for Moodle can be found here:
-// https://docs.moodle.org/dev/PHPUnit_integration
-// https://docs.moodle.org/dev/Writing_PHPUnit_tests
-//
-// The official PHPUnit homepage is at:
-// https://phpunit.de
-
-/**
- * The confirm test class.
- *
- * @package    local_customization
- * @copyright  2020 David Ordonez <davidherzlos@gmail.com>
- * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
- */
-class confirm_testcase extends \advanced_testcase {
-
-    // Write the tests here as public funcions.
-
-}
